@@ -2,6 +2,7 @@
 
 ### 2025.09 기준
 
+- powershell prompt(anaconda powershell prompt)를 실행하여 아래 코드 입력  
 ```
 wsl --install
 ```
