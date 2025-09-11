@@ -31,3 +31,6 @@ jupyter notebook
 - jupyter notebook 코드를 실행해서 나오는 링크에 접속해 jupyter를 window가 아닌 linux 환경에서 실행할 수 있습니다.
 
 http://localhost:  링크를 ctrl 클릭
+
+- playwright_linux.ipynb 파일 참고하여 이후 설치 과정 진행
+- 기존에 컴퓨터에 깔려있던 jupyter는 꺼두고 수행해주시는 것을 권장드립니다.
