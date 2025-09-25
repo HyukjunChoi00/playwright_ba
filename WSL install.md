@@ -2,7 +2,8 @@
 
 ### 2025.09 기준
 
-- powershell prompt(anaconda powershell prompt)를 실행하여 아래 코드 입력  
+- powershell prompt(anaconda powershell prompt)를 실행하여 아래 코드 입력
+- **관리자 권한 실행** 으로 powershell을 실행하셔야 합니다.
 ```
 wsl --install
 ```
