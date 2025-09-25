@@ -35,3 +35,4 @@ http://localhost:  링크를 ctrl 클릭
 
 - playwright_linux.ipynb 파일 참고하여 이후 설치 과정 진행
 - 기존에 컴퓨터에 깔려있던 jupyter는 꺼두고 수행해주시는 것을 권장드립니다.
+- 기존에 깔려있는 Jupyter를 실행한 상태로 WSL-Jupyter를 실행하면 둘의 localhost링크가 겹칠 수 있습니다.
